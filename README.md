@@ -1,5 +1,5 @@
 # Minor Computer Vision & Data Science
-## Deep Learning course material
+## Programme
 ### Day 1
 *Starting at 8:30.*
 
@@ -8,33 +8,30 @@
 
 **Student introduction (10 min)**
 
-**Course Introduction (30 min)**
+**Course Introduction (15 min)**
 
-**Lab tools setup (30 min)**
+**Lab tools setup (60 min)**
 
->  1. GitHub
->  2. Chrome
->  3. Google Drive
+>  1. Chrome
+>  2. Google Drive
+>  3. GitHub
 >  4. Google Cloud
 >  5. Udacity
 >  6. Qwiklab
 
-**Deep Learning Libraries**
-> LAB 1.1: [Applications of Deep Learning with Caffe, Theano and Torch (45 min)](https://spl-nvlabs.qwiklab.com/focuses/223)
+**Introduction to Deep Learning Libraries (45-min)**
+> LAB 1.1: [Applications of Deep Learning with Caffe, Theano and Torch](https://spl-nvlabs.qwiklab.com/focuses/223)
 
-<br>
+**Coffee break**
 
- >- Coffee break
-
-<br>
-
- - Image Classification
- 
+**Introduction to Image Classification (Udacity)** 
 > LAB 1.2: [Image Classification with DIGITS (1h 30m)](https://spl-nvlabs.qwiklab.com/focuses/1579)
 
-* Lunch break
-* Introduction to Keras
-> LAB 1.3: [Optical character recognition](https://github.com/wxs/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb)
+**Lunch break**
+
+**Introduction to Keras**
+> LAB 1.3: Use Keras + TensorFlow on Google Cloud
+> LAB 1.4: [Optical character recognition](https://github.com/wxs/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb)
 
 ### Day 2
 * Convolutional Neural Networks

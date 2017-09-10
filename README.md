@@ -3,22 +3,26 @@
 ### Day 1
 Starting at 8:30.
 
- - Registration (30 min)
+> - Registration (30 min)
 > Name, NHL e-mail, phone
 
- - Student introduction (10 min)
- - Course Introduction (30 min)
- - Lab tools setup (30 min)
-> GitHub
-> Chrome
+<br>
+
+ >- Student introduction (10 min)
+ >- Course Introduction (30 min)
+ >- Lab tools setup (30 min)
+ >> GitHub
+ > Chrome
 > Google Drive
 > Google Cloud
 > Udacity
 > Qwiklab
 
- - Deep Learning Libraries
+<br>
 
-> LAB 1.1: [Applications of Deep Learning with Caffe, Theano and Torch (45 min)](https://spl-nvlabs.qwiklab.com/focuses/223)
+>- Deep Learning Libraries
+
+>> LAB 1.1: [Applications of Deep Learning with Caffe, Theano and Torch (45 min)](https://spl-nvlabs.qwiklab.com/focuses/223)
 
  - Coffee break
  - Image Classification

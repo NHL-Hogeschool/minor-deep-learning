@@ -3,12 +3,15 @@
 ### Day 1
 *Starting at 8:30.*
 
-<p> **Registration (30 min)**
+**Registration (30 min)**
 > Name, NHL e-mail, phone
 
-<p> **Student introduction (10 min)**
-<p> **Course Introduction (30 min)**
-<p> **Lab tools setup (30 min)**
+**Student introduction (10 min)**
+
+**Course Introduction (30 min)**
+
+**Lab tools setup (30 min)**
+
 >  1. GitHub
 >  2. Chrome
 >  3. Google Drive

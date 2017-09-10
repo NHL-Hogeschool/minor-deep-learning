@@ -22,14 +22,14 @@
 **Introduction to Deep Learning Libraries (45-min)**
 > LAB 1.1: [Applications of Deep Learning with Caffe, Theano and Torch](https://spl-nvlabs.qwiklab.com/focuses/223)
 
-**Coffee break**
+**Coffee break (15 min)**
 
-**Introduction to Image Classification (Udacity)** 
-> LAB 1.2: [Image Classification with DIGITS (1h 30m)](https://spl-nvlabs.qwiklab.com/focuses/1579)
+**Introduction to Image Classification (Udacity, 90 min)** 
+> LAB 1.2: [Image Classification with DIGITS](https://spl-nvlabs.qwiklab.com/focuses/1579)
 
-**Lunch break**
+**Lunch break (45 min)**
 
-**Introduction to Keras**
+**Introduction to Keras (3 hours)**
 > - LAB 1.3: Use Keras + TensorFlow on Google Cloud
 > - LAB 1.4: [Optical character recognition](https://github.com/wxs/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb)
 

@@ -30,8 +30,8 @@
 **Lunch break**
 
 **Introduction to Keras**
-> LAB 1.3: Use Keras + TensorFlow on Google Cloud
-> LAB 1.4: [Optical character recognition](https://github.com/wxs/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb)
+> - LAB 1.3: Use Keras + TensorFlow on Google Cloud
+> - LAB 1.4: [Optical character recognition](https://github.com/wxs/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb)
 
 ### Day 2
 * Convolutional Neural Networks

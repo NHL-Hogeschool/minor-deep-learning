@@ -17,12 +17,12 @@ Starting at 8:30.
 > Qwiklab
 
  - Deep Learning Libraries
+
 > LAB 1.1: [Applications of Deep Learning with Caffe, Theano and Torch (45 min)](https://spl-nvlabs.qwiklab.com/focuses/223)
 
  - Coffee break
-
-----------
-- Image Classification
+ - Image Classification
+ 
 > LAB 1.2: [Image Classification with DIGITS (1h 30m)](https://spl-nvlabs.qwiklab.com/focuses/1579)
 
 * Lunch break

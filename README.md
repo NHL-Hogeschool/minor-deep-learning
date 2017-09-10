@@ -9,12 +9,12 @@
  > **Student introduction (10 min)**
  > **Course Introduction (30 min)**
  > **Lab tools setup (30 min)**
- > -- GitHub
- > -- Chrome
- > -- Google Drive
- > -- Google Cloud
- > -- Udacity
- > -- Qwiklab
+ 1. GitHub
+ 2. Chrome
+ 3. Google Drive
+ 4. Google Cloud
+ 5. Udacity
+ 6. Qwiklab
 
 > **Deep Learning Libraries**
 >> LAB 1.1: [Applications of Deep Learning with Caffe, Theano and Torch (45 min)](https://spl-nvlabs.qwiklab.com/focuses/223)

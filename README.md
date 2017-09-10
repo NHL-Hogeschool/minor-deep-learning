@@ -6,9 +6,9 @@
 **Registration (30 min)**
 > Name, NHL e-mail, phone
 
- **Student introduction (10 min)**
- **Course Introduction (30 min)**
- **Lab tools setup (30 min)**
+ - **Student introduction (10 min)**
+ - **Course Introduction (30 min)**
+ - **Lab tools setup (30 min)**
 >  1. GitHub
 >  2. Chrome
 >  3. Google Drive

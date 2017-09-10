@@ -2,14 +2,13 @@
 ## Deep Learning course material
 ### Day 1
 Starting at 8:30.
-<br>
-- Registration (30 min)
+
+ - Registration (30 min)
 > Name, NHL e-mail, phone
 
-<br>
-- Student introduction (10 min)
-- Course Introduction (30 min)
-- Lab tools setup (30 min)
+ - Student introduction (10 min)
+ - Course Introduction (30 min)
+ - Lab tools setup (30 min)
 > GitHub
 > Chrome
 > Google Drive
@@ -17,19 +16,18 @@ Starting at 8:30.
 > Udacity
 > Qwiklab
 
-<br>
-- Deep Learning Libraries
+ - Deep Learning Libraries
 > LAB 1.1: [Applications of Deep Learning with Caffe, Theano and Torch (45 min)](https://spl-nvlabs.qwiklab.com/focuses/223)
 
-<br>
-- Coffee break
+ - Coffee break
+
+----------
 - Image Classification
 > LAB 1.2: [Image Classification with DIGITS (1h 30m)](https://spl-nvlabs.qwiklab.com/focuses/1579)
 
 * Lunch break
-*
 * Introduction to Keras
->> LAB 1.3: [Optical character recognition](https://github.com/wxs/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb)
+> LAB 1.3: [Optical character recognition](https://github.com/wxs/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb)
 
 ### Day 2
 * Convolutional Neural Networks

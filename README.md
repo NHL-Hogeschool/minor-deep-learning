@@ -1,30 +1,30 @@
 # Minor Computer Vision & Data Science
 ## Deep Learning course material
 ### Day 1
-Starting at 8:30.
+*Starting at 8:30.*
 
-> - Registration (30 min)
+> **Registration (30 min)**
 > Name, NHL e-mail, phone
 
-<br>
+ > **Student introduction (10 min)**
+ > **Course Introduction (30 min)**
+ > **Lab tools setup (30 min)**
+ >-- GitHub
+ >-- Chrome
+ >-- Google Drive
+ >-- Google Cloud
+ >-- Udacity
+ >-- Qwiklab
 
- >- Student introduction (10 min)
- >- Course Introduction (30 min)
- >- Lab tools setup (30 min)
- >> GitHub
- > Chrome
-> Google Drive
-> Google Cloud
-> Udacity
-> Qwiklab
-
-<br>
-
->- Deep Learning Libraries
-
+> **Deep Learning Libraries**
 >> LAB 1.1: [Applications of Deep Learning with Caffe, Theano and Torch (45 min)](https://spl-nvlabs.qwiklab.com/focuses/223)
 
- - Coffee break
+<br>
+
+ >- Coffee break
+
+<br>
+
  - Image Classification
  
 > LAB 1.2: [Image Classification with DIGITS (1h 30m)](https://spl-nvlabs.qwiklab.com/focuses/1579)

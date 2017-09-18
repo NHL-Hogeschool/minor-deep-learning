@@ -28,9 +28,7 @@ Name, NHL e-mail, phone
 
 6. Google Cloud
 
-7. Udacity
-
-8. Qwiklab
+7. Qwiklab
 
 **Deep Learning Libraries (45 min)**
 
@@ -38,9 +36,8 @@ LAB 1.1: [Applications of Deep Learning with Caffe, Theano and Torch](https://sp
 
 **Coffee break (15 min)**
 
-**Introduction to Image Classification (Udacity, 2h 30 min)**
+**Introduction to Image Classification (2h 30 min)**
 
-Link to [course](https://classroom.udacity.com/courses/ud730/lessons/6370362152/concepts/63798118150923)**.**
 
 LAB 1.2: [Image Classification with DIGITS](https://spl-nvlabs.qwiklab.com/focuses/1579)
 
@@ -48,11 +45,9 @@ LAB 1.2: [Image Classification with DIGITS](https://spl-nvlabs.qwiklab.com/focus
 
 **Softmax, One-hot encoding, Cross-Entropy (3 hours)**
 
-Link to [course](https://classroom.udacity.com/courses/ud730/lessons/6370362152/concepts/63798118150923)**.**
-
 [Docker ](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/#install-using-the-repository)installation on Google Cloud
 
-LAB 1.3: Udacity assignment - notMNIST
+LAB 1.3: Assignment - notMNIST
 
 ## Day 2
 
@@ -72,21 +67,13 @@ LAB 2.2: Create GPU instances on Google Cloud
 
 LAB 2.3: Install Keras + Tensorflow on Google Cloud
 
-**Introduction to Keras- Part 1 (2 hours)**
-
-Link to [course](https://www.linkedin.com/learning/building-deep-learning-applications-with-keras-2-0/welcome).
+**Introduction to Keras - Part 1 (2 hours)**
 
 **Lunch break (45 min)**
 
-**Introduction to Keras- Part 2 (2 hours)**
-
-Link to [course](https://www.linkedin.com/learning/building-deep-learning-applications-with-keras-2-0/welcome).
-
-LAB 2.4: [Predict the revenue of a computer game](https://github.com/nhldatascience/minor-deep-learning/tree/master/building-deep-learning-applications-with-keras/Exercise%20Files/04).
+**Introduction to Keras - Part 2 (2 hours)**
 
 **Optimisation, Stochastic Gradient Descent, Momentum, Learning Rate**
-
-Link to [course](https://classroom.udacity.com/courses/ud730/lessons/6370362152/concepts/63798118150923)**.**
 
 ## Day 3
 
@@ -106,9 +93,7 @@ LAB3.2: [Develop a car detector](https://github.com/NVIDIA/DIGITS/tree/master/ex
 
 **Lunch break (45 min)**
 
-**Introduction to Keras- Part 3 (2 hours)**
-
-Link to [course](https://www.linkedin.com/learning/building-deep-learning-applications-with-keras-2-0/welcome).
+**Introduction to Keras - Part 3 (2 hours)**
 
 LAB 3.3: Develop an object recognition system with Keras
 
@@ -118,9 +103,7 @@ LAB 3.3: Develop an object recognition system with Keras
 
 **Review Day 1 (30 min)**
 
-**Deep & Convolutional Neural Networks (Udacity, 1 hour)**
-
-Link to [course](https://classroom.udacity.com/courses/ud730/lessons/6379031992/concepts/64036785920923)**.**
+**Deep & Convolutional Neural Networks (1 hour)**
 
 LAB 4.1: Convolutional Neural Networks (see instructions [below](#heading=h.tka26q11749q))
 
@@ -128,21 +111,15 @@ LAB 4.1: Convolutional Neural Networks (see instructions [below](#heading=h.tka2
 
 **Deep Models for Text and Sequences**
 
-Link to [course](https://classroom.udacity.com/courses/ud730/lessons/6378983156/concepts/63742734590923)**.**
-
-LAB 4.2: Word embeddings (see instructions [below](#heading=h.3lac9r74wojg))
-
-LAB 4.3: LSTMs (see instructions [below](#heading=h.ly2o6y86g7ad))
-
 **Lunch break (45 min)**
 
 **Semantic ****Segmentation (120 min)**
 
-LAB 4.4: [Semantic Image Segmentation Using DIGITS](https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation)
+LAB 4.2: [Semantic Image Segmentation Using DIGITS](https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation)
 
 **Introduction to Generative Adversarial Networks**
 
-LAB 4.5: [Generative adversarial networks with Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras/tree/master/Chapter07)
+LAB 4.3: Generative adversarial networks with Keras
 
 ## Day 5: Deep-Learning Hackathon
 

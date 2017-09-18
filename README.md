@@ -1,13 +1,5 @@
 ![image alt text](images/image_0.png)
 
-Live Notebook
-
-Minor Computer Vision & Data Science
-
-# Table of Contents
-
-[[TOC]]
-
 # Programme
 
 ## Day 1

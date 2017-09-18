@@ -1,4 +1,4 @@
-![image alt text](images/image_0.png)
+![image alt text](image_0.png)
 
 # Programme
 

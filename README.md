@@ -113,7 +113,7 @@ LAB 4.1: Convolutional Neural Networks (see instructions [below](#heading=h.tka2
 
 **Lunch break (45 min)**
 
-**Semantic ****Segmentation (120 min)**
+**Semantic Segmentation (120 min)**
 
 LAB 4.2: [Semantic Image Segmentation Using DIGITS](https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation)
 

@@ -79,7 +79,7 @@ LAB 2.3: Install Keras + Tensorflow on Google Cloud
 
 *Starting at 08:30*
 
-**Review Day 1 (30 min)**
+**Review Day 2 (30 min)**
 
 **Image Segmentation**** (120 min)**
 
@@ -101,7 +101,7 @@ LAB 3.3: Develop an object recognition system with Keras
 
 *Starting at 08:30*
 
-**Review Day 1 (30 min)**
+**Review Day 3 (30 min)**
 
 **Deep & Convolutional Neural Networks (1 hour)**
 
